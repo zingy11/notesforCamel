@@ -1,0 +1,11 @@
+Priority	Book	Why Read It
+⭐ 1	Exam Ref AZ-104 Microsoft Azure Administrator	Best foundation for Azure infrastructure: VMs, VNets, NSGs, storage, monitoring, backups, Entra ID.
+⭐ 2	RHCSA Red Hat Enterprise Linux 9 Training and Exam Preparation Guide	Rocky Linux skills map almost directly to RHEL administration.
+⭐ 3	UNIX and Linux System Administration Handbook (5th Edition)	Deep Linux administration reference, often considered the Linux admin bible.
+⭐ 4	Mastering Linux Administration (4th Edition)	Modern Linux operations, automation, security, networking, and troubleshooting.
+⭐ 5	Learn Azure in a Month of Lunches (2nd Edition)	Practical Azure learning with hands-on exercises. Great companion to AZ-104.
+⭐ 6	Azure Strategy and Implementation Guide	Covers Azure architecture, governance, networking, security, and enterprise deployments.
+⭐ 7	Linux Bible (10th Edition)	Comprehensive Linux reference from beginner to advanced administration.
+⭐ 8	How Linux Works (3rd Edition)	Excellent for understanding Linux internals, processes, networking, storage, and boot mechanisms.
+⭐ 9	Kubernetes Up & Running (3rd Edition)	Useful if you're deploying Linux workloads on Azure Kubernetes Service (AKS).
+⭐ 10	Terraform: Up & Running (3rd Edition)
