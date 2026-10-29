@@ -1,0 +1,5 @@
+Run the camel on the azure rocky linux vm
+
+Camel in Action, Second Edition
+
+later make this into a small extra section in the first phase of expressndadq
