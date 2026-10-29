@@ -2,4 +2,11 @@ Run the camel on the azure rocky linux vm
 
 Camel in Action, Second Edition
 
-later make this into a small extra section in the first phase of expressndadq
+later make this into a small extra section in the first phase of expressndadq (commmo)
+
+https://github.com/camelinaction/camelinaction2
+https://github.com/Apress/cloud-native-integration-apache-camel
+
+
+these are the books for Azure later:
+https://camel.apache.org/community/books/
