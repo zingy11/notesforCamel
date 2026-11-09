@@ -1,4 +1,5 @@
-start with camel on fedora wsl? 
+0. the libs
+1. compatibility
 
 
 
