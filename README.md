@@ -1,3 +1,7 @@
+start with camel on fedora wsl? 
+
+
+
 this is the section of the futures phase (phase 0) of the expressnasdaq page
 
 hosted in azure
